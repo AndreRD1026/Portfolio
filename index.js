@@ -1,0 +1,1 @@
+alert("Hola visitante! Este portafolio aún no está terminado, aún sigue en desarrollo :)");

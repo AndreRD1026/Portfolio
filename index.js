@@ -1,4 +1,4 @@
-alert("Hola visitante! Este portafolio aún no está terminado, aún sigue en desarrollo :)");
+alert("Hola visitante! Este portafolio aún no está terminado, sigue en desarrollo :)");
 
 function opencv () {
     const cv = 'Mi_CV.pdf';
@@ -18,4 +18,14 @@ function secondproject () {
 function thirdproject () {
     const project = 'https://github.com/AndreRD1026/BD1-202010816';
     window.open(project, "_blank");
+}
+
+function sketchybar_conf () {
+    const sketchybar_conf = 'https://github.com/AndreRD1026/SketchyBar';
+    window.open(sketchybar_conf, "_blank");
+}
+
+function spotify_conf () {
+    const spotify_conf = 'https://github.com/AndreRD1026/Spotify-Themes-MacOS';
+    window.open(spotify_conf, "_blank");
 }
